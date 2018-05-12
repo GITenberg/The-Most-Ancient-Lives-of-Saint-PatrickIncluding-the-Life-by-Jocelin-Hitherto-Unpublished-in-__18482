@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8059'
     url: http://www.gutenberg.org/2009/agents/8059
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18482#The-Most-Ancient-Lives-of-Saint-PatrickIncluding-the-Life-by-Jocelin-Hitherto-Unpublished-in-_
 gutenberg_issued: '2006-06-01'
 gutenberg_type: Text
 identifiers:
