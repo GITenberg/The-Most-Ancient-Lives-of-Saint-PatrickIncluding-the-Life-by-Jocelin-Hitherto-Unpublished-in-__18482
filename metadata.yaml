@@ -1,0 +1,26 @@
+_repo: The-Most-Ancient-Lives-of-Saint-PatrickIncluding-the-Life-by-Jocelin-Hitherto-Unpublished-in-__18482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: O'Leary, James
+    gutenberg_agent_id: '8059'
+    url: http://www.gutenberg.org/2009/agents/8059
+description: ''
+gutenberg_issued: '2006-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patrick, Saint, 373?-463?'
+- !lcc 'BX'
+title: 'The Most Ancient Lives of Saint Patrick
+
+  Including the Life by Jocelin, Hitherto Unpublished in America, and His Extant Writings'
+url: http://www.gutenberg.org/ebooks/18482
